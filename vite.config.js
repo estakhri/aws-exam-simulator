@@ -6,7 +6,7 @@ import react from '@vitejs/plugin-react'
 // Or use './' for relative paths that work in any subdirectory
 export default defineConfig({
   plugins: [react()],
-  base: './',
+  base: '/aws-exam-simulator/',
   build: {
     outDir: 'dist',
     assetsDir: 'assets',
