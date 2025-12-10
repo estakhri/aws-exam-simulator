@@ -75,7 +75,7 @@ This project includes a GitHub Actions workflow for automatic deployment.
 Your app will be available at: `https://YOUR_GITHUB_USER_NAME.github.io/aws-exam-simulator/`
 
 You can see the live version here
-![AWS Solution Architect Exam Simulator](https://estakhri.github.io/aws-exam-simulator/)
+[AWS Solution Architect Exam Simulator](https://estakhri.github.io/aws-exam-simulator/)
 
 ## 📁 Project Structure
 
