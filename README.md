@@ -39,7 +39,7 @@ A modern, interactive exam simulator for AWS Solutions Architect Professional (S
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/aws-exam-simulator.git
+git clone https://github.com/estakhri/aws-exam-simulator.git
 
 # Navigate to project directory
 cd aws-exam-simulator
@@ -72,7 +72,7 @@ This project includes a GitHub Actions workflow for automatic deployment.
 3. Under "Build and deployment", select **Source: GitHub Actions**
 4. The app will automatically deploy on every push to `main`
 
-Your app will be available at: `https://YOUR_USERNAME.github.io/aws-exam-simulator/`
+Your app will be available at: `https://estakhri.github.io/aws-exam-simulator/`
 
 ## 📁 Project Structure
 
